@@ -12,7 +12,7 @@ body {
     height: 640px;
     transform: translate(-50%, -50%) rotate(-30deg) skew(25deg);
     box-shadow: -20px 20px 20px rgba(0, 0, 0, .5);
-    border: 1px solid black;
+    border: 1px solid #333333;
 }
 
 ul {
